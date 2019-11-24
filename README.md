@@ -1,1 +1,1 @@
-Android app that collects data on animals to promote wildlife conservation through crowdsourcing using a game-like experience.
+Animoment is an Android application that aims to promote wildlife conservation by collecting animal data through crowdsourcing and gamification.
